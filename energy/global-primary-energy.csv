@@ -1,4 +1,4 @@
-Year,Coal (TWh; direct energy),Oil (TWh; direct energy),Gas (TWh; direct energy),Hydropower (TWh; direct energy),Nuclear (TWh; direct energy),Solar (TWh; direct energy),Other renewables (TWh; direct energy),Traditional biomass (TWh; direct energy),Wind (TWh; direct energy),Biofuels (TWh; direct energy)
+Year,Coal,Oil,Gas,Hydropower,Nuclear,Solar,Other renewables),Traditional biomass,Wind,Biofuels
 1800,97,0,0,0,0,0,0,5556,0,0
 1810,128,0,0,0,0,0,0,5833,0,0
 1820,153,0,0,0,0,0,0,6111,0,0
