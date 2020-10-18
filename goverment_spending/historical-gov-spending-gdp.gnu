@@ -1,7 +1,7 @@
 set datafile separator ','
 set title "Government spending, 1880 to 2011"
 set xlabel "Year"
-set ylabel "TWh"
+set ylabel "%"
 set key left top
 set terminal pngcairo size 1200, 800
 set output "historical-gov-spending-gdp.png"
